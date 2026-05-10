@@ -396,7 +396,7 @@ export default function Home() {
           </form>
 
           <div
-            className="rounded-[2rem] border p-6 shadow-2xl backdrop-blur-xl"
+            className="rounded-4xl border p-6 shadow-2xl backdrop-blur-xl"
             style={{
               background: "var(--card)",
               borderColor: "var(--card-border)",
